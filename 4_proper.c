@@ -70,3 +70,6 @@ int main()
     return 0;
     
 }
+
+// gcc filename.c -pthread
+// ./a.exe
